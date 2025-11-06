@@ -1,0 +1,10 @@
+img {
+  width: 1000px;
+  border-radius: 80%; 
+}
+body {
+  text-align: center;
+  font-family: 'Times New Roman';
+  background: mintcream;
+  color: midnightblue;
+}
